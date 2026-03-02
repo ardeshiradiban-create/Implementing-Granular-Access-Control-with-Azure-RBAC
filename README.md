@@ -13,12 +13,9 @@ The goal was to grant a specific user the **Virtual Machine Contributor** role, 
 2. **Assigning the Role:** Granting **Virtual Machine Contributor** permissions.
 ![Role Assignment](rbac-role.png)
 
-### Key Learning Outcomes
-- **Scope Management:** Understanding how to apply roles at the Resource Group level.
-- **Security Best Practices:** Implementing the principle of least privilege.
-- **Identity Governance:** Utilizing Microsoft Entra ID identities for secure resource management.
+### Conclusion 
 
-- Conclusion
+
 This project highlights the efficiency of Cloud Identity Management and security best practices within an Azure environment. By implementing Role-Based Access Control (RBAC) at the Resource Group level, I successfully demonstrated how to enforce the Principle of Least Privilege.
 
 Key takeaways from this implementation include:
